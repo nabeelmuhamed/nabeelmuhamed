@@ -1,12 +1,12 @@
-<p align="center"> <img src="https://www.canva.com/join/jdf-csv-ydq" /> </p>
+<img style="width:100%" src="https://media.discordapp.net/attachments/693333131230707726/1174943888318935080/Rustic_Minimal_Wedding_Print_Banner.jpg" /> </img>
 
 
-<h1 align="center">Hi 👋, I'm Nabeel Muhamed Shihab</h1>
+
 <h3 align="center">A passionate python developer from India</h3>
 
 
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FujjawalD07%2FujjawalD07&psig=AOvVaw0K7Qp6-xTlcXID69dR13ac&ust=1700242058455000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCCrLGFyYIDFQAAAAAdAAAAABAK" /> </p>
+
 
 
 
