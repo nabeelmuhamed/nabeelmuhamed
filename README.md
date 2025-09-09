@@ -16,10 +16,26 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **AI-powered tools**, automation pipelines & web apps  
-- 🌱 Expanding my skills in **React** & modern frontend development  
-- 🤖 Experienced with **Machine Learning, Data Engineering, and BI Dashboards**  
-- 💡 Passionate about creating products that **solve real-world problems**  
+- 🔭 Python Developer & Data Analyst with 2+ years of experience  
+- 🤖 Skilled in **Machine Learning, Automation, Data Visualization, and Web Development**  
+- 🌱 Expanding my skills in **React & modern web apps**  
+- 💡 Passionate about building tools that **simplify workflows and add business value**  
+
+---
+
+### 💼 Experience
+- **Mantle Technologies** → *Data Analyst*  
+  - Built automated dashboards with **Power BI**  
+  - Optimized SQL queries and improved reporting efficiency  
+  - Automated Excel reports using **Python**  
+
+- **SolX** → *Data Analyst Intern*  
+  - Created **interactive dashboards** and managed large datasets  
+  - Automated workflows for reporting using Python & SQL  
+
+- **SMEC Labs** → *Data Science Intern*  
+  - Developed ML features for **EV charging system datasets**  
+  - Analyzed battery efficiency and charging patterns using **Power BI**  
 
 ---
 
@@ -41,15 +57,7 @@
 
 **Other Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,figma,hadoop" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelms&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelms&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps" />
 </p>
 
 ---
@@ -59,13 +67,10 @@
   <a href="https://linkedin.com/in/nabeelmuhamed" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_nabeel.muhamed_" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="mailto:nabeelms007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
-⭐️ From [Nabeel](https://github.com/nabeelms)
+⭐️ From [Nabeel](https://github.com/nabeelmuhamed)
