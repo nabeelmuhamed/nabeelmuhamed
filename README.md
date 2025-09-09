@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/693333131230707726/1174943888318935080/Rustic_Minimal_Wedding_Print_Banner.jpg" alt="banner" style="width:100%; max-height:250px; object-fit:cover;" />
+  <img src="https://github.com/nabeelmuhamed/nabeelmuhamed/blob/main/NabeelPic.jpg" alt="Nabeel Profile Picture" width="200" style="border-radius:50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
 </p>
+
 
 <h1 align="center">Hi, I'm Nabeel 👋</h1>
 <h3 align="center">Python Developer | Data Analyst | ML Enthusiast</h3>
